@@ -1,0 +1,15 @@
+---
+layout: post
+published: true
+title: Five Senses
+tags:
+  - scribbles
+  - english
+date: '2018-09-05'
+---
+She was American. Over seventy, I think. She came to this city for her son’s wedding which took place over the weekend. Now, Monday, she felt tired and thought she wouldn’t really want to talk — just hang around and look at the people. But then, slowly, we actually became engrossed in our conversation. We talked about politics and ranted about bad governments, about the fear of change and about  traveling as a means of holding on to hope for a better future. 
+One of the questions on the list, and something I never asked anyone until then, was “What most delights your five senses and why?” I got an unexpected reply which stuck with me: “My children! I like having them near, I like touching them, smelling them, hearing them talk. I like everything about them. Their closeness is what really makes me happy.”   
+
+Exactly 400 years ago, Rubens and Breughel worked together to produce a series of allegorical paintings, titled [_The Five Senses_](https://goo.gl/ycSfnT) and in all but one (taste) there is a child present. 
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BWeWWOjBiW1/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BWeWWOjBiW1/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Gabi Fugabi (@fugabi)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-07-13T04:59:24+00:00">Jul 12, 2017 at 9:59pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>

@@ -1,0 +1,128 @@
+---
+layout: post
+title: Configuring a Raspberry Pi 2
+date: '2015-09-23 15:21:27'
+tags:
+- tech
+---
+
+I was struggling (again) for quite a while to make the RPi2 work. It was crashing at least a couple of times a week. I could see it was still online but every attempt to connect to it via SSH would fail. I had to pull the plug each time and start all over again. 
+Syncthing seemed to work but each time when someone from outside my LAN would try to sync, it would crash too. My Logitech Media Server was struggling as well. I had no idea what was going on and had no time to look into it. 
+And then, I *made it new* again. I installed the latest Raspbian Wheezy image on the card, boot it up and, while connected to a monitor and keyboard, I started the new configuration. 
+
+## Autologin 
+
+I need this so that the RPi2 would log in automatically after boot when the GUI is disabled (which is always the case, actually). There are some tutorials that use scripts, crontabs etc. I find it easier to modify the *inittab* file in /etc. Thus, 
+
+**sudo nano /etc/inittab**
+
+and scroll down, right after 
+
+><p> # Note that on most Debian systems tty7 is used by the X Window System,
+<p> # so if you want to add more getty's go ahead but skip tty7 if you run X. 
+
+there should be the following line: 
+
+**T0:23:respawn:/sbin/getty -L ttyAMA0 115200 vt100** 
+
+modify it, so that it looks like this: 
+
+**T0:23:respawn:/sbin/getty --autologin YOURLOGIN -L ttyAMA0 115200 vt100** 
+
+where YOURLOGIN should be, of course, your own login name. 
+
+Save that and exit. 
+Reboot. 
+
+## Static IP 
+
+Most tutorials dealing with Raspberry Pis and static IP are outdated. Which is frustrating. After the new OS release, simply modifying /network/interfaces does not work. Your Pi will suddenly have two IPs: the static one you assigned in the good old fashion way and a new one from the DHCP pool. How to stop this? Again, there are all sorts of work-around solutions like disabling the dhcpcd service or removing it altogether, while keeping the old /network/interfaces untouched. 
+Well, it does not really work. So, reading the dhcpcd manual might be the best way out. 
+Solution? Well, 
+
+**sudo nano /etc/network/interfaces**
+
+You'll get a file content looking like this: 
+
+>auto lo
+iface lo inet loopback
+auto eth0
+allow-hotplug eth0
+iface eth0 inet dhcp
+auto wlan0
+allow-hotplug wlan0
+iface wlan0 inet manual
+wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+auto wlan1
+allow-hotplug wlan1
+iface wlan1 inet manual
+wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+
+
+You'll need to modify it to look like this: 
+
+>auto lo
+iface lo inet loopback
+auto eth0
+allow-hotplug eth0
+iface eth0 inet **manual**
+
+>**dns-nameservers 8.8.8.8**
+>
+auto wlan0
+allow-hotplug wlan0
+iface wlan0 inet manual
+wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+auto wlan1
+allow-hotplug wlan1
+iface wlan1 inet manual
+wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+
+Eth0 is set to **manual** and dns-nameservers point to google dns. 
+
+Save.
+Exit. 
+
+Then: 
+
+**sudo nano /etc/dhcpcd.conf** 
+
+At the very end of the file append the following: 
+
+    interface eth0
+        static ip_address=YOURSTATICIP/24
+        static routers=YOURROUTERIP
+        staticdomain_name_servers=YOURROUTERIP
+
+Save. 
+Exit. 
+Reboot. 
+
+Now, you have automatic login and static IP. Next step, 
+
+## Change SSH port 
+
+That's an easy one. 
+
+**sudo nano /etc/ssh/sshd_config**
+
+Look for 
+
+**Port 22**
+ 
+in the first few lines and change it with 
+
+**Port YOURPORT**. 
+
+Save. 
+Exit. 
+Reboot. 
+
+Done! 
+
+The rest is up to you. I threw at it a [Samba server](http://raspberrywebserver.com/serveradmin/share-your-raspberry-pis-files-and-folders-across-a-network.html) and a [Logitech Media Server](http://raspberry-at-home.com/logitech-media-server/) for the couple of players I use. 
+I still have to decide whether to install syncthing, a webserver, put it in my router's DMZ and access it from outside (through port forwarding and a NoIP service). I am also not sure if I would like to install node.js on it and play with Ghost at home. We'll see!  
+
+
+
+

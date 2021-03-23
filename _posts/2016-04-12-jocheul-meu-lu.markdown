@@ -1,0 +1,13 @@
+---
+layout: post
+title: Jocheul meu - Lucia Berlin
+date: '2016-04-12 10:27:18'
+tags:
+- translation
+---
+
+Îmi place să lucrez la urgenţe - cel puţin aici dai peste oameni adevăraţi, peste bărbaţi, eroi. Pompierii şi jocheii ajung mereu la urgenţe. Iar jocheii au nişte röntgenuri extraordinare. Îşi rup mereu oasele dar se bandajează bine şi se urcă din nou pe cal. Scheletele lor arată ca nişte copaci, ca nişte brontazauri reconstruiţi. Ca röntgenuri ale sfîntului Sebastian.
+Eu sînt cea care se ocupă de jochei pentru că vorbesc spaniola şi majoritatea sînt mexicani. Primul jocheu cu care am avut de-a face se numea Muñoz. Dumnezeule. Dezbrac mulţi oameni şi nu e niciodată o problemă, durează doar cîteva secunde, Muñoz însă stătea întins, inconştient - un zeu aztec în miniatură. De vreme ce costumul său era aşa de complicat mi se părea că am ajuns în mijlocul unui ritual. Enervant, pentru că dura aşa de mult, ca într-un text de Mishima în care dezbrăcatul unui kimono se întinde pe trei pagini. Cămaşa sa purpurie, de satin, avea o mulţime de nasturi de-a lungul umărului şi la fiecare manşetuţă mică; pantalonii erau încinşi cu dantelării complicate, cu noduri pre-columbiene. Cizmele îi miroseau a balegă şi sudoare, dar erau la fel de catifelate şi delicate ca ale Cenuşăresei. Şi dormea, un prinţ fermecat.
+A început să-şi cheme mama încă înainte de a se trezi. Nu i-a fost de-ajuns să mă ţină de mînă, cum fac majoritatea pacienţilor, ci m-a luat de gît, plîngînd, Mamacita! Mamacita! Domnul doctor Johnson putea să îl examineze doar dacă îl ţineam în braţe ca pe un bebeluş. Era mic ca un copil, dar puternic, musculos. Un bărbat la mine în poală. Un bărbat de vis? Un copil de vis?
+Domnul doctor Johnson îmi ştergea picăturile de sudoare de pe frunte în timp ce eu traduceam. Cu siguranţă şi-a fracturat clavicula, cel puţin trei coaste, probabil avea şi o comoţie. Nu, spunea Muñoz. Mîine trebuie să intre în cursă. Du-l la röntgen, a spus domnul doctor Johnson. De vreme ce nu voia să se întindă pe targă l-am purtat în braţe de-a lungul coridorului, ca un King Kong. Plîngea, speriat, iar lacrimile sale mi-au udat pieptul.
+Am aşteptat împreună în camera întunecoasă pînă au venit cei de la röntgen. Am încercat să îl calmez cum aş fi calmat un cal. Cálmate, lindo, cálmate. Despacio … despacio. Uşor... uşor. S-a liniştit la mine în braţe apoi şi-a suflat uşor nasul. L-am mîngîiat pe spatele său delicat iar acesta se unduia şi se cutremura ca spatele unui mînz maiestos. Era nemaipomenit.

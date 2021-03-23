@@ -1,0 +1,27 @@
+---
+layout: post
+title: Cento.red
+date: '2015-08-18 20:33:36'
+tags:
+- scribbles
+- tech
+---
+
+It took me some time, lots of work, decisions and experiments but now it's done! 
+
+This is <font color="red">**cento.red**</font>. My digital home for some time to come. 
+
+Ingredients: [Digital Ocean](http://digitalocean.com) / [Gandi](http://gandi.net) / [Ghost](http://ghost.org) / [Linux](http://ubuntu.com). 
+
+I have tried to host it on my private server but it was a bit *tooooo* slow and it would not play nice on the small RPi2. Performance would not even come close to the SSD servers at Digital Ocean. Not to mention that trying to install Ghost (running on Node.js) on the RPi2 was a nightmare. But I did that too and played with it. 
+At Digital Ocean, on the other hand, I had to wrestle with a *Bad Gateway* error, spewed out by the web-server every so often. Whatever modifications I have made to the configuration files did not help. And it would not get away. Until one day when I read that RAM has an important role to play here. Thus, I've set up a SWAP partition and everything runs smoothly ever since. 
+As for performance, even better would have been a static site - no scripts, no database, no PHP, nothing. Just good, old, plain html. That's why I played with [Hugo](http://gohugo.io) too. And that's a really fast guy! I could have made a home for it at Github, with no costs involved. But I decided against it because it does not have an integrated text editor (which will be coming soon, from what I understand) and because it would have been a bit too clunky, having to run a command before I wanted to publish anything. I am willing to reconsider it, though. 
+
+Nevertheless, Ghost is good enough. Simple, straight, polished. Glad I stumbled across it right after they introduced the spell-checker... :) and made it easier to make it private (i.e., green light for experimenting). It just clicked! Split screen for writing, Markdown, tags, images and SEO... Compared to WordPress... Well, one evening I tried to modify my WP blog and got tired of it. And mad. So much to choose from and still so little freedom! And slow, too. I was actually just one step away from ditching Ghost for something *tried and tested* and then I realized I had enough of it. "[Make it new](http://www.newyorker.com/magazine/2008/06/09/the-pound-error)!", I thought. Make it new! 
+
+Choosing the name of the site was also not the easiest enterprise but, even if it needs a little getting used to, I think it works. After all, as Mantel wrote in Wolf Hall: 
+>You don't get on by being original. You don't get on by being bright. You don't get on by being strong. You get on by being a subtle crook. 
+
+Not that subtle crookery should be the underlining premise here but realizing that true genius is somehow off the mark. A patchwork might be more realistic and, perhaps, even more reflective of the state of the psyche today, bombarded each second with information, words and works and images and ideas and what have you... *It* from *make it new* is actually the old. The old transformed, transgressed, transcended. The patchwork that got to be a quilt, the medley that makes a tune, the salmagundi that's a self-sufficient meal. 
+
+Well, that's it! 

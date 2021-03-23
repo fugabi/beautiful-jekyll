@@ -1,0 +1,24 @@
+---
+layout: post
+title: J.Q.A.
+date: '2010-09-21 09:50:59'
+tags:
+- scribbles
+---
+
+
+What’s the difference between this:
+
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_Quincy_Adams_Signature.svg/500px-John_Quincy_Adams_Signature.svg.png)
+
+and this:
+
+![](http://upload.wikimedia.org/wikipedia/commons/3/35/John_Quincy_Adams_Signatures.jpg)
+
+The first one belongs to the [American president](http://en.wikipedia.org/wiki/John_Quincy_Adams).
+
+The second, to the [Austrian (Viennese) painter](http://de.wikipedia.org/wiki/John_Quincy_Adams_(Maler)).
+
+It’s a small world!
+
+
