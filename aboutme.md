@@ -51,7 +51,8 @@ From [Wordsmith](https://wordsmith.org/words/cento.html):
 
 *Examples of centos*:
 
-[The Oxford Cento by David Lehman](https://www.nytimes.com/2006/04/02/books/arts/poem-these-fragments-i-have-shored.html)
+[The Oxford Cento by David Lehman](https://www.nytimes.com/2006/04/02/books/arts/poem-these-fragments-i-have-shored.html)  
+
 [The Dong With the Luminous Nose by John Ashbery](https://nonsenselit.com/2015/12/04/john-ashbery-the-dong-with-the-luminous-nose-1998/)
 
 *USAGE*: “Louis Zukofsky continued to write … a play, a novella, a book of criticism, a 500-page cento of philosophy in homage to Shakespeare …” Bob Perelman; Finding His Voice; Tikkun (Berkeley, California); May/Jun 2007.
