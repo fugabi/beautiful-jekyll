@@ -98,6 +98,7 @@ img {
 
 .navbar-custom {
   background: #2c3f50;
+  padding: 0 1em 0 1em;
   border-bottom: 1px dashed #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
