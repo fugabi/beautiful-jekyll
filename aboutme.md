@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
 This is the world of a philosophy graduate who finds inspiration and strength in art and poetry. 
