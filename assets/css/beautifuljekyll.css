@@ -779,9 +779,9 @@ color: #f1c40f;
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: transparent;
   border-radius: 0;
-  color: {{ site.text-col | default: "#404040" }};
+  color: #E84C3D;
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
@@ -791,6 +791,6 @@ color: #f1c40f;
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #FFF;
-  border: 1px solid {{ site.hover-col | default: "#0085A1" }};
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  /* border: 1px solid {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#0085A1" }}; */
 }
