@@ -24,6 +24,12 @@ common-js:
 
 {% include head.html %}
 
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+  progressJS.start();
+});
+  </script> 
+
 <body>
 
   {% include gtm_body.html %}
@@ -35,6 +41,8 @@ common-js:
   {% include footer.html %}
 
   {% include footer-scripts.html %}
+
+
 
 </body>
 </html>
