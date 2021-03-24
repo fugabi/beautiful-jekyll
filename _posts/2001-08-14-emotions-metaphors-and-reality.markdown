@@ -25,11 +25,11 @@ The Maritimes philosopher advances the idea that emotions have a cognitive value
 
 Latent in Lyall’s work can also be found a theory of metaphor which I try to revive with the help of French philosopher Paul Ricoeur.
 
-Thus, following Lyall, emotions and reason are always in a balance and they work together in order to give us a more consistent and fuller grasp of reality.
+Thus, following Lyall, emotions and reason are always in a balance and they work together in order to give us a more consistent and fuller grasp of reality.  
 
  
 
-### TABLE OF CONTENTS
+### TABLE OF CONTENTS  
 
 
  
