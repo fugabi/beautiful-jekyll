@@ -13,19 +13,35 @@ Who wants to hang around with kids and [talk](https://philo.cento.red/) to them 
 Patchwork:
 
 > I have not seen the *Game of Thrones*.
+>
 > I have learned English mostly from watching TV.
+>
 > I once saved my brother from drowning. 
+>
 > I can’t skate or rollerblade. 
+>
 > I can follow a rhythm but I can't play any instruments. 
+>
 > I like the sun. 
+>
 > As a kid, I used to collect stamps.
+>
 > You can always tempt me with dark chocolate.
+>
 > I like eating raw quince. 
+>
 > Every couple of years I get rid of the things I don't need.
+>
 > I like clear, open spaces. 
+>
 > I like baking bread. Put a bit of tahini on a fresh crust and I’m in heaven.
-> I like coffee. Espresso. As well as strong cold brewed coffee mixed with tonic water. 
+>
+> I like coffee. Espresso. 
+>
+> As well as strong cold brewed coffee mixed with tonic water. 
+>
 > Jogging in Speicherstadt in Hamburg was one of the nicest running experiences I have ever had. 
+>
 > I never wore glasses.
 
 ---
