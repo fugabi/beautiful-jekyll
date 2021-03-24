@@ -32,7 +32,7 @@ blockquote {
   color: #c7c7c7;
   font-style: italic;
   border-left: 1px solid #E84C3D;
-  margin: 0 0 1rem;
+  padding-left: 1.5em;
 }
 blockquote p:first-child {
   margin-top: 0;
