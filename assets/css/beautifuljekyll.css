@@ -394,7 +394,7 @@ footer .theme-by {
   border-radius: 2px;
   /* color: #008AFF;
   background-color: #CCC; */
-  /* text-decoration: underline; */
+  text-decoration: none;
 }
 
 .post-preview .blog-tags {
