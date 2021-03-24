@@ -2,7 +2,7 @@
 const progressJS = {
         "defaults": {
           //color
-          "color": "#003f72",
+          "color": "#d51d22",
           //height
           "height": "3px",
           "top": 0,
