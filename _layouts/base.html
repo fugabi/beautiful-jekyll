@@ -24,12 +24,7 @@ common-js:
 
 {% include head.html %}
 
-<script src="/assets/css/scrollprogressJS.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function (event) {
-  progressJS.start();
-});
-  </script> 
+
 
 <body>
 
@@ -44,6 +39,12 @@ common-js:
   {% include footer-scripts.html %}
 
 
-
+  <script src="/assets/css/scrollprogressJS.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function (event) {
+    progressJS.start();
+  });
+    </script> 
+    
 </body>
 </html>
