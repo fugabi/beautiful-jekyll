@@ -98,7 +98,7 @@ img {
 
 .navbar-custom {
   background: #2c3f50;
-  padding: 0 1em 0 1em;
+  /* padding: 0 1em 0 1em; */
   border-bottom: 1px dashed #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -136,7 +136,7 @@ img {
   transition: height .5s ease-in-out;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 5px;
+  padding: 5px 20px 5px 20px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
   height: 40px;
