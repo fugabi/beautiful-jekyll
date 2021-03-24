@@ -28,11 +28,10 @@ Latent in Lyall’s work can also be found a theory of metaphor which I try to r
 Thus, following Lyall, emotions and reason are always in a balance and they work together in order to give us a more consistent and fuller grasp of reality.
 
  
----
 
 #### TABLE OF CONTENTS
 
----
+ 
 
 #### I. [WILLIAM LYALL](https://fugabi.github.io/blog/2001-08-14-william-lyall/)
 
@@ -50,7 +49,7 @@ Emotions, Morality and Being
 
 ###### INTELLECT, EMOTIONS AND IMAGINATION
 
----
+ 
 
 
 #### II. [ON EMOTION](https://fugabi.github.io/blog/2001-08-14-on-emotion/)
@@ -73,7 +72,7 @@ The Magical World
 
 Lyall and Sartre
 
----
+ 
 
 #### III. [ON METAPHOR](https://fugabi.github.io/blog/2001-08-14-on-metaphor/)
 
@@ -106,12 +105,12 @@ Imagination
 ##### LYALL AND METAPHORS
 The Emotive Dimension
 
----
+ 
 
 #### IV. [CONCLUDING REMARKS](https://fugabi.github.io/blog/2001-08-14-concluding-remarks/)
 
 
----
+ 
 
 [APPENDIX](https://fugabi.github.io/blog/2001-08-14-appendix/)
 

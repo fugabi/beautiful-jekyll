@@ -48,7 +48,7 @@ Paul Ricoeur
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Emotive Dimension
 
---- 
+ 
 
 We have seen that Lyall is able to provide the basis for a consistent theory of emotion, even though he did not develop it thoroughly. This is why Sartre’s insight was welcomed. It offered a more advanced theoretical basis rooted in the phenomenological tradition and a more refined set of distinctions which when applied to Lyall’s ideas made it possible for us to see more clearly how it is that through our emotions we are linked to the phenomenal world. However, this is not all there is in Lyall that deserves our consideration. 
 Besides emotions, there is the intellect which Lyall believed to be divorced from the world. This is where Lyall erred, because the intellect too brings its contribution to our interaction with the world. For Lyall, the mind in the imaginative state is composed of two parts - the intellectual part and the emotional part. In so far as it is intellectual it creates metaphors by having the ability to perceive analogies. The description of our ability to perceive analogies, putting disparate things under a single light in order to create new meanings, is nothing less than an incipient definition of metaphor. 
