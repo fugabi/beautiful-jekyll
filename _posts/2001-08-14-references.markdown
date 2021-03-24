@@ -9,11 +9,10 @@ published: true
 
 Gabriel Furmuzachi
 
----
-
+ 
 #### REFERENCES
 
----
+ 
 
 Abram, David. 1997. The Spell of the Sensuous: Perception and Language in a More-Than-Human-World. New York: Vintage Books.
 
