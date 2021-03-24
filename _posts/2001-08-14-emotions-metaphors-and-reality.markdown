@@ -29,7 +29,8 @@ Thus, following Lyall, emotions and reason are always in a balance and they work
 
  
 
-#### TABLE OF CONTENTS
+### TABLE OF CONTENTS
+
 
  
 
